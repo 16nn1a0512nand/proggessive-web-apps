@@ -1,0 +1,50 @@
+{
+	"basics":{
+		"name":"nandhini",
+		"role":"mean-stack",
+		"mobile":" +91 999777766",
+		"email":"nandinigottipati0000@gmail.com"
+	},
+	"career":{
+		"info":"To pursue a challenging career and be a part of progressive organization that gives a scope to enhance my knowledge and utilizing my skills towards the growth of the organization"
+	},
+	"education":[
+		{
+			"degree":"B-Tech(Computer Science & Engineering)",
+			"institute":"Vignan Nirula",
+		    "data":["2016-20","95%"]
+        },
+        {
+			"degree":"Intermediate(mpc)",
+			"institute":"Sri Chaitanya",
+		    "data":["2014-16","95%"]
+        },
+        {  
+        "degree":"ssc",
+		"institute":"kakateeya vidya peetam",
+		"data":["2013-14","95%"]
+	   }
+       ],
+	     
+            "skills":[
+            	
+	     	{
+	     		"title":"programming languages",
+	     		"content":["Python","C","Java","R"]
+            },
+            {
+            	"title":"Data Bases",
+            	"content":["sql","oracle","mysql"]
+            },
+            {
+            	"title":"Web Technologies",
+            	"content":["HTML","XML","JavaScript","CSS"]
+            },
+            {
+            	"title":"Operating Systems",
+            	"content":["Windows","Unix","Linux"]
+            }
+           	     	
+	     	]
+    
+}
